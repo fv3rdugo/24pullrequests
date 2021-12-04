@@ -1,5 +1,5 @@
 ---
-en:
+ca:
   about:
     description: 24 Pull Requests' goal is to encourage contribution to open source projects during December.
     idea: 'The idea is simple: ''Send 24 pull requests between December 1st and December 24th'', encouraging contributors to give back to open source projects with little gifts of code throughout December.'
@@ -205,7 +205,6 @@ en:
       latest:
         count: Latest %{language} Contributions (%{count} total)
   locale:
-    ca: Català
     cs: Čeština
     de: Deutsch
     el: Ελληνικά
